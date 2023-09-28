@@ -1,0 +1,85 @@
+
+
+
+
+.container {
+    width: 400px;
+    height: 400px;
+    background-color: #000;
+    border: 1px solid lightgrey;
+    border-radius: 50%;
+    margin: 0 auto;
+
+/*----------------------------Inicio primera parte--------------------------*
+
+
+        /*----- SI -----*
+    background-image: linear-gradient(yellow, blue, red);
+    /*----------*/
+
+         /*---- SI ------*
+    background-image: linear-gradient(to bottom, yellow, blue, red);
+    /*----------*/
+
+        /*---- SI------*
+    background-image: linear-gradient(to top, yellow, blue, red);
+    /*----------*/
+
+        /*----- SI -----*
+    background-image: linear-gradient(to right, yellow, blue, red);
+    /*----------*/
+
+        /*---- SI ------*
+    background-image: linear-gradient(to left, yellow, blue, red);
+     /*----------*/
+
+        /*--- SI -------*
+    background-image:linear-gradient(to bottom right, yellow, blue, red);
+    /*----------*/
+
+         /*------ SI ----*
+    background-image: linear-gradient(to bottom left, yellow, blue, red);
+    /*----------*/
+
+        /*----- SI -----*
+    background-image: linear-gradient(180deg, yellow, blue, red);
+    /*----------*/
+
+        /*--- SI -------*
+    background-image: linear-gradient(90deg, yellow, blue, red);
+    /*----------*/
+
+        /*----- SI -----*
+    background-image: linear-gradient(234deg, yellow, blue, red);
+    /*----------*/
+
+        /*----- SI -----*
+    background-image: linear-gradient(134deg, yellow 45%, blue 39%, red 75%);
+    /*----------*/
+
+    /*----- SI -----*
+    background-image: linear-gradient(234deg, yellow 45%, red 45%);
+/*----------*/
+
+        /*------ SI ----*
+    background-image: repeating-linear-gradient(234deg, yellow 25%, blue 35%, red 45%);
+    /*----------*/
+
+/*----------------------------Final primera parte--------------------------*/
+
+        /*----- SI -----*
+    background-image: radial-gradient(darkorange, yellow);
+    /*----------*/
+
+         /*---- SI ------*/
+    background-image: repeating-radial-gradient(farthest-corner at 100px 100px, darkorange 30%, yellow 60%);
+    /*----------*/
+
+
+
+
+
+
+
+       
+}
